@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "plan_name": "Basic",
+        "max_time": "60",
+        "max_concurrents": "2",
+        "prefix": "[Basic]",
+        "suffix": "(B)",
+        "disabled_commands": ["special", "admin_only"]
+    },
+    "premium": {
+        "plan_name": "Premium",
+        "max_time": "600",
+        "max_concurrents": "5",
+        "prefix": "💎",
+        "suffix": "",
+        "disabled_commands": []
+    }
+}

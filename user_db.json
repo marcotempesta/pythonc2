@@ -1,0 +1,18 @@
+{
+    "kush": {
+        "id": "1",
+        "username": "kush",
+        "password": "root",
+        "plan": "premium",
+        "rank": "admin",
+        "vip": true
+    },
+    "user1": {
+        "id": "2",
+        "username": "user1",
+        "password": "password123",
+        "plan": "basic",
+        "rank": "user",
+        "vip": false
+    }
+}

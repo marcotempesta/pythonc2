@@ -1,0 +1,17 @@
+{
+    "account": {
+      "description": "Shows your account details.",
+      "branding": "account.tfx",
+      "requires_vip": false
+    },
+    "clear": {
+      "description": "Clears the screen.",
+      "branding": "clear_screen.tfx",
+      "requires_vip": false
+    },
+    "ping": {
+      "description": "Pings all connected bots.",
+      "branding": "branding_ping.txt",
+      "requires_vip": true
+    }
+  }

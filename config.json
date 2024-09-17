@@ -1,0 +1,6 @@
+{
+    "ssh_port": 99,
+    "welcome_banner_file": "welcome_banner.tfx",
+    "window_title_file": "window_title.tfx",
+    "prompt_file": "prompt.tfx"
+}
